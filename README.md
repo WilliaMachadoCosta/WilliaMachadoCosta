@@ -5,7 +5,7 @@ Hello my name is William M. Costa. I'm a systems developer in .NET and javascrip
 
 In my spare time I'm watching anime and writing for my blogs.
 
-Here are some ideas to get you started:
+here are my blogs:
 
 - [chamanozap](https://chamanozap.net/)
 - [webao.info](https://webao.info)
