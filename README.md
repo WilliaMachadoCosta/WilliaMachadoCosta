@@ -7,10 +7,10 @@ In my spare time I'm watching anime and writing for my blogs.
 
 Here are some ideas to get you started:
 
-- 🔭 https://chamanozap.net/[https://chamanozap.net/]
-- 🌱 https://webao.info[https://webao.info]
-- 👯 https://minhaconta.info [https://minhaconta.info]
-- 🤔 https://williammachadocosta.com[https://williammachadocosta.com]
+- 🔭 ![https://chamanozap.net/] (https://chamanozap.net/)
+- 🌱 ![https://webao.info](https://webao.info)
+- 👯 ![https://minhaconta.info] (https://minhaconta.info)
+- 🤔 ![https://williammachadocosta.com] (https://williammachadocosta.com)
 
 
   ![WilliaMachadoCosta](https://github-readme-stats.vercel.app/api?username=WilliaMachadoCosta&show_icons=true&theme=dracula)
