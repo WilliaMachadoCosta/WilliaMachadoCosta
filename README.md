@@ -1,16 +1,17 @@
 ### Hi there 👋
-**WilliaMachadoCosta/WilliaMachadoCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WilliaMachadoCosta/WilliaMachadoCosta** 
+
+Hello my name is William M. Costa. I'm a systems developer in .NET and javascript. I am currently 100% immersed in Node applications with Nest.js, Prisma and GraphQl.
+
+In my spare time I'm watching anime and writing for my blogs.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 https://chamanozap.net/[https://chamanozap.net/]
+- 🌱 https://webao.info[https://webao.info]
+- 👯 https://minhaconta.info [https://minhaconta.info]
+- 🤔 https://williammachadocosta.com[https://williammachadocosta.com]
+
 
   ![WilliaMachadoCosta](https://github-readme-stats.vercel.app/api?username=WilliaMachadoCosta&show_icons=true&theme=dracula)
 
